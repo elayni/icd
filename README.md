@@ -1,13 +1,16 @@
 # Introdução à Ciência de Dados
 
-## Notebooks
+###Repositório dedicado à disciplina Introdução à Ciência de Dados do curso Ciência de Dados e Inteligência Artifical da UFPB.✨
 
-Notebooks usados nas aulas:
 
-- [Python - Funções](https://github.com/yurimalheiros/icd/blob/master/Python%20-%20Funções.ipynb)
-- [Python - Dicionários, Counters e Sets](https://github.com/yurimalheiros/icd/blob/master/Python%20-%20Dicionários%2C%20Counters%20e%20Sets.ipynb)
-- [Python - Listas](https://github.com/yurimalheiros/icd/blob/master/Python%20-%20Listas.ipynb)
+✨Exercícios resolvidos:
+- [Exercícios](https://github.com/elayni/icd/tree/master/Exerc%C3%ADcios)
 
-## Exercícios
+✨Notebooks usados nas aulas pelo professor Yuri Malheiros:
+- [Notebooks das aulas](https://github.com/elayni/icd/tree/master/Notebook%20das%20aulas)
 
-- [Python - Listas](https://github.com/yurimalheiros/icd/blob/master/Exerc%C3%ADcio%20-%20Python%20-%20Listas.ipynb)
+✨Datasets usados nas aulas e exercícios:
+- [Datasets](https://github.com/elayni/icd/tree/master/datasets)
+
+✨Repositório original: [Yuri Malheiros - icd](https://github.com/yurimalheiros/icd)
+
