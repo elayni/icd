@@ -1,6 +1,6 @@
 # Introdução à Ciência de Dados
 
-###Repositório dedicado à disciplina Introdução à Ciência de Dados do curso Ciência de Dados e Inteligência Artifical da UFPB.✨
+### Repositório dedicado à disciplina Introdução à Ciência de Dados do curso Ciência de Dados e Inteligência Artifical da UFPB.✨
 
 
 ✨Exercícios resolvidos:
